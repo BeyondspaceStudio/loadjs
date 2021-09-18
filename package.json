@@ -1,6 +1,6 @@
 {
   "name": "@beyondspace/loadjs",
-  "version": "4.2.0",
+  "version": "4.2.1-0",
   "license": "MIT",
   "description": "Tiny async loader for modern browsers",
   "files": ["dist/*"],
