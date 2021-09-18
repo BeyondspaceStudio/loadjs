@@ -3,6 +3,7 @@
   "version": "4.2.0",
   "license": "MIT",
   "description": "Tiny async loader for modern browsers",
+  "files": ["dist/*"],
   "keywords": [
     "async",
     "loader",
